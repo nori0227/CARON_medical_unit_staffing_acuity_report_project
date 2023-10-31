@@ -2,7 +2,10 @@
 A Power Apps application that tracks patient acuity information for patient 
 
 ### Special Note: 
-The images within the application have been carefully designed to exclusively feature dummy data. No actual patient information is depicted, ensuring strict adherence to patient information protection protocols
+* The images within the application have been carefully designed to exclusively feature dummy data. No actual patient information is depicted, ensuring strict adherence to patient information protection protocols
+* The actual dataset has not been included in the repository to safeguard patient confidentiality and data privacy. 
+* The **pictures_application** directory includes visuals of four screens, which encompass functionalities for adding and updating dummy records, as well as demonstrating the successful creation of the records.
+* The **final_application_report** directory contains the final presentation that was presented to the stakeholders. It's included in this reportory with the permission of the Caron Data Analytics team.
 
 ### Project objective:
 The objective of the project was to develop and publish an application that tracks acuity information for patient on Power Apps from the existing Medical Unit Staffing and Acuity Report system on excel, and setup the published application on SharePoint. The application allows the staff members to add, edit and update staffing and acuity report.
@@ -28,9 +31,6 @@ The objective of the project was to develop and publish an application that trac
 * An error handling page was established to display users the causes of errors and the information would be stored within an error dataset in SharePoint
 * An user guide tab is available in the main screen
 
-The **pictures_application** directory includes visuals of four screens, which encompass functionalities for adding and updating dummy records, as well as demonstrating the successful creation of the records.
-
-The **final_application_report** directory contains the final presentation that was presented to the stakeholders. It's included in this reportory with the permission of the Caron Data Analytics team.
 
 
 

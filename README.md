@@ -10,6 +10,9 @@ A Power Apps application that tracks patient acuity information for patient
 ### Project objective:
 The objective of the project was to develop and publish an application that tracks acuity information for patient on Power Apps from the existing Medical Unit Staffing and Acuity Report system on excel, and setup the published application on SharePoint. The application allows the staff members to add, edit and update staffing and acuity report.
 
+### Tools utilized:
+Excel, SharePoint & Power Apps
+
 ### Project scrope:
 * Extracting, transforming and lodaing the medical staffing and patient acuity dataset comprising of 7000 records to SharePoint and creating a Sharepoint data source
 * Connecting the Power Apps application to the SharePoint data source
